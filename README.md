@@ -15,7 +15,7 @@ I have Hotel Booking dataset.The main objective of this project is explore the g
 
 * arrival_date_month: Month of arrival date
 
-*arrival_date_week_number: Week number of year for arrival date
+* arrival_date_week_number: Week number of year for arrival date
 
 * arrival_date_day_of_month: Day of arrival date
 
