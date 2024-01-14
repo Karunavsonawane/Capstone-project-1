@@ -135,9 +135,9 @@ In univariate analysis following questions are tried to solve:
 
 10) GDS distribution channel contributed most inADR in city hotel but no contribution in resoert hotel.
 
-11)arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51.
+11) arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51.
 
-12)stays_in_week_nights and total_stay has positive correlation which is 0.95.
+12) stays_in_week_nights and total_stay has positive correlation which is 0.95.
 
 
 
