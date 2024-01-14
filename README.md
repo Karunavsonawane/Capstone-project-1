@@ -63,7 +63,7 @@ Countplot
 
 Heatmap
 
-##### Univariate analysis:
+#### Univariate analysis:
 In univariate analysis following questions are tried to solve:
 
 Which type of hotel is mostly prefered by the guests?
@@ -75,7 +75,7 @@ In which month most of the bookings happened?
 Which distribution channel is mostly used for hotel booking?
 which year had highest bookings?
 
-### Bivariate and Multivariate analysis:
+#### Bivariate and Multivariate analysis:
 
 In bivariate and multivariate analysis following questions are tried to solve:
 which hotel has longer waiting time?
