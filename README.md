@@ -96,23 +96,23 @@ Heatmap
 #### Univariate analysis:
 In univariate analysis following questions are tried to solve:
 
-Which type of hotel is mostly prefered by the guests?
-Which agent made the most bookings?
-What is the percentage of repeated guests?
-What is the most preferred room type by the customers?
-What type of food is mostly prefered by the guests?
-In which month most of the bookings happened?
-Which distribution channel is mostly used for hotel booking?
-which year had highest bookings?
+*  Which type of hotel is mostly prefered by the guests?
+*  Which agent made the most bookings?
+*  What is the percentage of repeated guests?
+*  What is the most preferred room type by the customers?
+*  What type of food is mostly prefered by the guests?
+*  In which month most of the bookings happened?
+*  Which distribution channel is mostly used for hotel booking?
+*  which year had highest bookings?
 
 #### Bivariate and Multivariate analysis:
 
-In bivariate and multivariate analysis following questions are tried to solve:
-which hotel has longer waiting time?
-Which distribution channel contributed more to adr in order to increase the income?
-What is optimal stay length in both types of hotel?
-Relationship between the repeated guests and previous bookings not canceled?
-Relationship between ADR and total number of people?
+*  In bivariate and multivariate analysis following questions are tried to solve:
+*  which hotel has longer waiting time?
+*  Which distribution channel contributed more to adr in order to increase the income?
+*  What is optimal stay length in both types of hotel?
+*  Relationship between the repeated guests and previous bookings not canceled?
+*  Relationship between ADR and total number of people?
 
 ### Conclusion
 1) City hotel is mostly preferred hotel by guests.
